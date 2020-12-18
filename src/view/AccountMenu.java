@@ -55,7 +55,7 @@ public class AccountMenu extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         dcnetLogo.setFont(new java.awt.Font("MS UI Gothic", 1, 24)); // NOI18N
-        dcnetLogo.setForeground(new java.awt.Color(0, 204, 0));
+        dcnetLogo.setForeground(new java.awt.Color(0, 153, 153));
         dcnetLogo.setText("DCNET　図書管理システム");
 
         user.setText("ユーザ名");

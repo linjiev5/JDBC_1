@@ -49,6 +49,7 @@ public class DbTest {
         int expected = 1;
         int actual = lc.getSameData(query);
 //        assertThat(actual,is(expected));
+//           assertThat(actual, expected);
     }
     @BeforeClass
     public static void setUpClass() {

@@ -58,7 +58,7 @@ public class BookMane extends javax.swing.JFrame {
         passwordLogo.setText("パスワード");
 
         dcnetLogo.setFont(new java.awt.Font("MS UI Gothic", 1, 24)); // NOI18N
-        dcnetLogo.setForeground(new java.awt.Color(0, 204, 0));
+        dcnetLogo.setForeground(new java.awt.Color(0, 153, 153));
         dcnetLogo.setText("DCNET　図書管理システム");
 
         login.setText("ログイン");
